@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IdentityServerTutorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bd8bc477e09e236581ae1fb45cb650894ad828b")]
 [assembly: System.Reflection.AssemblyProductAttribute("IdentityServerTutorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IdentityServerTutorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
