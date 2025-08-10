@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mqhxP6duUH8=",
+  "success": true,
+  "projectFilePath": "/Users/gregfield/RiderProjects/IdentityServerTutorial/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/gregfield/.nuget/packages/duende.identitymodel/7.1.0/duende.identitymodel.7.1.0.nupkg.sha512",
+    "/Users/gregfield/.nuget/packages/microsoft.netcore.app.ref/8.0.16/microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "/Users/gregfield/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.16/microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",
+    "/Users/gregfield/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.16/microsoft.netcore.app.host.osx-arm64.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
